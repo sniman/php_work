@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="PHP">
+            <file>file:/Applications/MAMP/htdocs/eshop/admin/view/template/common/header.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/mail/customer.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/vqmod/readme.txt</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/admin/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/template.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/common/header.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/common/language.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/session.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/db.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/error/not_found.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/common/header.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/checkout/cart.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/api/login.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/db/mssql.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/engine/controller.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/currency.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/admin/view/template/common/column_left.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/index.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/mail.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/mail/review.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/common/maintenance.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/image.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/mail/order.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/api/coupon.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/common/buttons.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/api/customer.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/config.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/request.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/admin/view/template/payment/bank_transfer.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/admin/view/javascript/jquery/flot/examples/series-pie/index.html</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/api/order.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/api/currency.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/common/cart.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/payment/bank_transfer.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/api/cart.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/captcha/google_captcha.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/stylesheet/stylesheet.css</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/common/footer.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/helper/general.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/checkout/confirm.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/checkout/checkout.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/payment/bank_transfer.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/javascript/common.js</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/captcha/basic_captcha.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/view/theme/default/template/common/footer.tpl</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/admin/view/javascript/bootstrap/css/bootstrap.min.css</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/catalog/language/english/mail/forgotten.php</file>
+            <file>file:/Applications/MAMP/htdocs/eshop/system/library/customer.php</file>
+        </group>
+    </open-files>
+</project-private>
